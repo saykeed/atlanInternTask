@@ -5,7 +5,7 @@
         <option value="0">SELECT * FROM Employees; </option>
         <option value="1">SELECT * FROM Employees WHERE id = 1</option>
         <option value="2">SELECT * FROM Employees WHERE country = Nigeria</option>
-        <option value="3">SELECT * FROM Employees WHERE role = Frontend</option>
+        <option value="3">SELECT * FROM Employees WHERE role = Frontend Developer</option>
       </select>
 
       <div class="tables">
