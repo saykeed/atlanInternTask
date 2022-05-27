@@ -55,6 +55,12 @@ export default {
         border-radius: 0.5rem;
         margin: 3rem auto;
       }
+
+      div.tables{
+        padding: 0.5rem;
+        overflow: auto;
+        width: 100%;
+      }
     }
 
 
